@@ -1,1 +1,1 @@
-# Solving Beam_Deflection Through Numerical Analysis
+# Solving Beam Deflection Through Numerical Analysis
